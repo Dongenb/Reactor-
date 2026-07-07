@@ -1,0 +1,5 @@
+/mnt/hgfs/share/communicating_system/build/CMakeFiles/chat_common.dir
+/mnt/hgfs/share/communicating_system/build/CMakeFiles/chat_server.dir
+/mnt/hgfs/share/communicating_system/build/CMakeFiles/chat_client.dir
+/mnt/hgfs/share/communicating_system/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/communicating_system/build/CMakeFiles/rebuild_cache.dir
